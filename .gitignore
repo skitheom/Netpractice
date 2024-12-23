@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.pdf
+*.tgz
+net_practice
